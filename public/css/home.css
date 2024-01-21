@@ -1,13 +1,44 @@
+main.home{}
 
-    .section{
-        font-size: 24px;
+main.home img{}
+main.home h3.prod-h3{
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+main.home h2.prod-h2{
+    font-size: 24px;
     font-family: 'Roboto', sans-serif;}
-    .size-precio{
+main.home section ul.productos{}
+
+main.home section ul.productos li.prod-li1{}
+
+main.home section ul.productos li.prod-li2{}
+
+main.home section ul.productos li.prod-li3{}
+
+main.home section ul.productos li.prod-li4{}
+
+main.home h2.of-h2{
+        font-size: 24px;
+        font-family: 'Roboto', sans-serif;}
+
+main.home section ul.ofertas li.of-li1{}
+
+main.home section ul.ofertas li.of-li2{}
+
+main.home section ul.ofertas li.of-li3{}
+
+main.home section ul.ofertas li.of-li4{}
+
+
+
+
+.size-precio{
         font-size: 18px;font-family: 'Roboto', sans-serif;}
-    .size-descuento{
+.size-descuento{
         font-size: 16px; font-family: 'Roboto', sans-serif;}
-    .size-descripcion{
-        font-size: 16px; font-family: 'Roboto', sans-serif;}
+.size-descripcion{
+     font-size: 16px; font-family: 'Roboto', sans-serif;}
 
 
     
