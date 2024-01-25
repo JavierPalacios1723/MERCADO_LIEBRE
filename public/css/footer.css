@@ -1,28 +1,16 @@
-footer.main-footer h4.paga{
-
-}
-
-footer.main-footer h4.paga{
-  
-}
-
-footer.main-footer h4.envio{}
-
-footer.main-footer i h4.seguridad{}
-
+ 
  
 footer  i{
     color: var(--sky-blue);
-    font-size:2em;
-   
-   
-    } 
-   
+    size: 2em;
+    margin: auto;
+          } 
+
+footer.main-footer h4{
+            text-align: center;
+         }
    footer p{
-    
-        text-align: center;
-      
-      
+    text-align: center;         
     font-size: 16px;
    }
    

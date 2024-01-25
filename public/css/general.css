@@ -4,13 +4,15 @@
 --light-grey:#ebebeb;
 --green:#39b54a;
 
-    --FamilyRoboto:'Roboto', sans-serif;}
+--FamilyRoboto:'Roboto', sans-serif;}
 
 
 *{
     box-sizing: border-box;
     font-family: var(--FamilyRoboto);
 }
+
+img.logo {}
 
 a{
     color: black;
@@ -19,6 +21,7 @@ a{
 
 li{
     list-style: none;
+    padding: 0;
 }
 
 ul{

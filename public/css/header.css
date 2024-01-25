@@ -3,12 +3,12 @@ body .home-body {}
 
 body header.main-header{}
 
-body .home-body .main.header div.aa {
+body .home-body .main.header {
   width: 100%;
 }
 
- body .home-body .main.header div.aa img.logo{
-  width: 100%;
+ body .home-body .main.header img.logo{
+ margin: 0 auto;
   display: block;
  }
 
@@ -62,14 +62,15 @@ body header div.burger-menu i{
  margin: 0 50% 0 50%;
  font-size: 1.8rem;
 }
-header{
-    background-color:var(--yellow);
-    display: inline-block; 
-    
-     
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-}
 
+
+
+
+
+header{background-color:var(--yellow);
+  display: block; 
+  max-width: 100%;
+  height: auto;
+   margin:0 auto;
+
+}
