@@ -1,17 +1,14 @@
-footer.main-footer i{   color: var(--sky-blue);
+footer.main-footer i{
+    color: var(--sky-blue);
     font-size:2em;
     display: block;
-    margin:0 auto;
-    background-color: blue;
-   
+    margin: 10px 126px 10px 126px;
 }
 
 footer.main-footer h4.paga{}
 
 footer.main-footer p{
-    text-align: center;
-  
-  
+text-align: center;
 font-size: 16px;
 }
 
