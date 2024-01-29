@@ -1,28 +1,25 @@
-footer.main-footer h4.paga{
-
+footer.main-footer i{   color: var(--sky-blue);
+    font-size:2em;
+    display: block;
+    margin:0 auto;
+    background-color: blue;
+   
 }
 
-footer.main-footer h4.paga{
+footer.main-footer h4.paga{}
+
+footer.main-footer p{
+    text-align: center;
   
+  
+font-size: 16px;
 }
 
 footer.main-footer h4.envio{}
 
-footer.main-footer i h4.seguridad{}
+footer.main-footer h4.seguridad{}
 
- 
-footer  i{
-    color: var(--sky-blue);
-    font-size:2em;
-   
-   
-    } 
-   
-   footer p{
-    
-        text-align: center;
-      
-      
-    font-size: 16px;
-   }
+       
+
+  
    
